@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299951338563",
+    "project_id": "diabetappauth",
+    "storage_bucket": "diabetappauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299951338563:android:dc73089b425524961e90f6",
+        "android_client_info": {
+          "package_name": "com.mainapp.diabetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299951338563-qs2i3p99tndviim6sikmgohltim3a776.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb9VEvHYqkiq3gs9aZwqDvqbdHLPRgjeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299951338563-qs2i3p99tndviim6sikmgohltim3a776.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
